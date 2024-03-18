@@ -1,0 +1,11 @@
+*.o
+*.c
+test1
+test2
+test3
+Dockerfile
+Readme.md
+.gitinore
+.dockerignore
+.git/
+.devcontainer
